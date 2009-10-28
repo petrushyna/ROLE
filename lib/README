@@ -1,0 +1,9 @@
+Any dependencies should be added in this directory.
+In this README the libs should be added with clear indication of
+the version and date it was added and for what purpose.
+
+libraryname  |   version  |   purpose
+-----------------------------------------------
+fakelib      |    1.0     |  informative dummy
+
+

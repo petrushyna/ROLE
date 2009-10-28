@@ -1,0 +1,4 @@
+Here we will have files that will need to be installed on top of a socialsite
+installation in Glassfish.
+There will be an ant script that does it for you given that you provide the
+glassfish DOMAIN_PATH.
